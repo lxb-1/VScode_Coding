@@ -10,4 +10,8 @@
 set clipboard=unnamed
 ```
 
-(2) 
+(2) Luascript
+
+```lua
+vim.cmd('set clipboard=unnamed')
+```
