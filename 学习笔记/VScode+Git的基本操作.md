@@ -1,7 +1,7 @@
 
 ## VScode+Git的基本操作
 ### 如何在Github创建仓库
-
+首先需要注册Github账号，并创建仓库。然后，
 ### 如何将VScode项目上传到github仓库
 
 在VScode下面的的bash终端如下如所示：
